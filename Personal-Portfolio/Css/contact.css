@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 15px 0;
+  text-align: center;
+}
+section .title {
+  text-align: center;
+}
+section .form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section .form input{
+  width: 600px;
+  height: 35px;
+  margin-bottom: 20px;
+}
+section .form textarea{
+  width: 600px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+@media (max-width: 768px){
+  section .form{
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  section .form form{
+    width: 100%;
+  }
+  section .form input{
+    max-width: 98%;
+  }
+  section .form textarea{
+    max-width: 98%;
+    border-bottom: 1px solid rgb(118, 118, 118);
+  }
+}
+section .form .submit{
+  width: 150px;
+  background-color: #333;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
+.contact{
+  text-align: center;
+  background-color: #eee;
+  padding: 20px;
+}
+.contact address strong{
+  margin-bottom: 10px;
+}
+footer .text {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}

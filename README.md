@@ -32,6 +32,11 @@ A single semantic blog post page using `<header>`/`<main>`/`<article>`/`<footer>
 
 🔗 Challenge: [roadmap.sh/projects/blog-post-page](https://roadmap.sh/projects/blog-post-page)
 
+### `06-contact-form/`
+An accessible, JavaScript-free contact form with `action`/`method="post"`, labelled inputs (text, email, `<select>`, `<textarea>`), browser validation (`required`, `minlength`, `type="email"`), radio buttons grouped in a `<fieldset>`+`<legend>`, an optional newsletter checkbox, and a submit button.
+
+🔗 Challenge: [roadmap.sh/projects/contact-form](https://roadmap.sh/projects/contact-form)
+
 ## 💡 Purpose
 
 These projects are designed to help you:
@@ -61,5 +66,7 @@ html-practice-projects/
 │   └── pricing-table.html
 ├── 05-blog-post-page/
 │   └── blog.html
+├── 06-contact-form/
+│   └── form.html
 ├── .gitignore
 └── README.md

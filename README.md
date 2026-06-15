@@ -37,6 +37,11 @@ An accessible, JavaScript-free contact form with `action`/`method="post"`, label
 
 🔗 Challenge: [roadmap.sh/projects/contact-form](https://roadmap.sh/projects/contact-form)
 
+### `07-photo-showcase/`
+An image gallery page demonstrating media markup: six `<img>` elements with descriptive `alt` and `width`/`height`, three wrapped in `<figure>`+`<figcaption>`, one decorative image with `alt=""`, and an embedded `<video>` with `controls`, a `poster`, and fallback text.
+
+🔗 Challenge: [roadmap.sh/projects/photo-showcase](https://roadmap.sh/projects/photo-showcase)
+
 ## 💡 Purpose
 
 These projects are designed to help you:
@@ -68,5 +73,7 @@ html-practice-projects/
 │   └── blog.html
 ├── 06-contact-form/
 │   └── form.html
+├── 07-photo-showcase/
+│   └── showcase.html
 ├── .gitignore
 └── README.md

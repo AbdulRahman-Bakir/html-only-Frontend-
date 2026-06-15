@@ -22,6 +22,11 @@ A multi-page basic site with:
 
 🔗 Challenge: [roadmap.sh/projects/basic-html-website](https://roadmap.sh/projects/basic-html-website)
 
+### `04-pricing-comparison-table/`
+An accessible pricing page comparing three subscription plans in a real `<table>` with a `<caption>`, `<thead>`/`<tbody>`, `scope="col"`/`scope="row"` headers, and a merged (`colspan`) highlight row.
+
+🔗 Challenge: [roadmap.sh/projects/pricing-comparison-table](https://roadmap.sh/projects/pricing-comparison-table)
+
 ## 💡 Purpose
 
 These projects are designed to help you:
@@ -47,5 +52,7 @@ html-practice-projects/
 │   ├── index.html
 │   ├── about.html
 │   └── contact.html
+├── 04-pricing-comparison-table/
+│   └── pricing-table.html
 ├── .gitignore
 └── README.md

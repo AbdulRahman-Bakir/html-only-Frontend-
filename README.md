@@ -27,6 +27,11 @@ An accessible pricing page comparing three subscription plans in a real `<table>
 
 🔗 Challenge: [roadmap.sh/projects/pricing-comparison-table](https://roadmap.sh/projects/pricing-comparison-table)
 
+### `05-blog-post-page/`
+A single semantic blog post page using `<header>`/`<main>`/`<article>`/`<footer>`, a proper heading outline (`<h1>`→`<h2>`→`<h3>`), real text elements (lists, `<blockquote>`+`<cite>`, `<pre>`/`<code>`, `<em>`/`<strong>`), a `<figure>` with `<figcaption>`, descriptive links, and full head metadata including a meta description.
+
+🔗 Challenge: [roadmap.sh/projects/blog-post-page](https://roadmap.sh/projects/blog-post-page)
+
 ## 💡 Purpose
 
 These projects are designed to help you:
@@ -54,5 +59,7 @@ html-practice-projects/
 │   └── contact.html
 ├── 04-pricing-comparison-table/
 │   └── pricing-table.html
+├── 05-blog-post-page/
+│   └── blog.html
 ├── .gitignore
 └── README.md
